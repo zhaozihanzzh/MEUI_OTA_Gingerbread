@@ -1,4 +1,4 @@
 OTA_TEST
 ========
 
-用于提供OTA服务
+MEUI RomCtrl 更新日志
