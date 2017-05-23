@@ -1,4 +1,5 @@
-&MEUI RomCtrl更新日志
+MEUI RomCtrl更新日志
 &修复5.0+机型上SeekBarPreference未对齐问题
 &增加更新日志
-&移除强制填满半径
+&移除强制填满进度条半径
+&其他修复
